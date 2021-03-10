@@ -2,6 +2,9 @@
 
 Seja Bem-vindo ao meu github **Aprendendo Novas Tecnologias!**
 
+#### Description
+I'm student of Computer Science
+
 <!--
 **DagmarMpheio/DagmarMpheio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
