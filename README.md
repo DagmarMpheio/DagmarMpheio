@@ -3,7 +3,9 @@
 Seja Bem-vindo ao meu github **Aprendendo Novas Tecnologias!**
 
 #### Description
-I'm student of Computer Science
+
+I'm student of *Computer Science and Engineering*.
+
 
 <!--
 **DagmarMpheio/DagmarMpheio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
