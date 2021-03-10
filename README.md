@@ -6,6 +6,19 @@ Seja Bem-vindo ao meu github **Aprendendo Novas Tecnologias!**
 
 I'm student of *Computer Science and Engineering*.
 
+#### Personal Details
+
+{
+  name: 'Dagmar Mpheio'
+  nationality: 'Angolan',
+  hobbies: ['listen music', 'read', 'code', 'watching tv'],
+  contact: {
+    email: 'dagmarmpheiu@gmail.com',
+    linekdin: 'https://www.linkedin.com/in/eufranio-diogo-a33145122/',
+    youtube: 'https://www.youtube.com/channel/UCGHrfgpFKFI7lCork7iKF6g'
+  },
+  code: ['Java', 'C', 'C#', 'Python','Vue.js', 'HTML', 'CSS', 'PHP','Kotlin', 'Javascript'],
+}
 
 <!--
 **DagmarMpheio/DagmarMpheio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
