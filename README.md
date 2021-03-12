@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Laravel, AdonisJs, Django, Kotlin, Flutter, VueJs**
 
-- 💬 Ask me about **VueJs, Laravel**
+- 💬 Ask me about **VueJs, Laravel, PHP**
 
 - 📫 How to reach me **dagmarmpheiu@gmail.com**
 
