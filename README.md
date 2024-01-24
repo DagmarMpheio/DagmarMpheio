@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dagmarmpheio&label=Profile%20views&color=0e75b6&style=flat" alt="dagmarmpheio" /> </p>
 
-- 🌱 I’m currently learning **Laravel, AdonisJs, Django, Kotlin, Flutter, VueJs**
+- 🌱 I’m currently learning **Laravel, Django, and Flutter**
 
-- 💬 Ask me about **VueJs, Laravel, PHP, Java, Flutter**
+- 💬 Ask me about **Laravel, PHP, Java, Flutter and AI**
 
 - 📫 How to reach me **dagmarmpheiu@gmail.com**
 
